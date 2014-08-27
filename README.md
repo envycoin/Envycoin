@@ -1,4 +1,0 @@
-Envycoin
-========
-
-Envycoin (ENV)
