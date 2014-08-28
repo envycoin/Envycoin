@@ -1,0 +1,9 @@
+Building Envycoin
+
+See doc/readme-qt.rst for instructions on building Envycoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Envycoin.
+
+See doc/build-*.txt for instructions on building Envycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Envycoin.
